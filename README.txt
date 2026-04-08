@@ -58,8 +58,8 @@ Dashboards Include: Sales performance, customer segmentation, churn analysis vie
 
 Interactive Features: Filters, drill-downs, tooltips, calculated fields
 
-GitHub: github.com/gireeshtallur7
+## 📬 Connect With Me
 
-LinkedIn: linkedin.com/in/gireesh-tallur-7b3880246
-
-Email: girishtallur07@gmail.com
+- **GitHub:** [https://github.com/gireeshtallur7](https://github.com/gireeshtallur7)
+- **LinkedIn:** [https://www.linkedin.com/in/gireesh-tallur-7b3880246](https://www.linkedin.com/in/gireesh-tallur-7b3880246)
+- **Email:** [girishtallur07@gmail.com](mailto:girishtallur07@gmail.com)
